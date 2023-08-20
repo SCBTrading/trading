@@ -462,7 +462,7 @@
 						
 						text-align: center;
 						
-						max-width: 632px;
+						max-width: 573px;
 						
 						padding-right: 0px;
 						
@@ -641,9 +641,9 @@
 							
 		}
 	 .style-00819f22-yxvcscpa .style-56f4bffd-hb3wrlxk .preview-subtitle  ,  .style-00819f22-yxvcscpa .style-56f4bffd-hb3wrlxk .preview-body h2  { 
-						line-height: 1.6em;
+						font-style: italic;
 						font-size:calc( 10px + ( 15rem - 10rem ) );
-						font-weight: bold;
+						line-height: 1.6em;
 						
 						color: rgb(255, 255, 255);
 						
