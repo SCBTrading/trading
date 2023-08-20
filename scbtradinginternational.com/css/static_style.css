@@ -188,269 +188,6 @@
  *                                 	 
  ******************************************************************************************************/
 /******************************************************************************************************
- *            DYNAMIC STYLE FOR style-00819f22-469z2azy version 1.0
- *                                 	 
- ******************************************************************************************************/
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy  .preview-content-holder  {
-		
-						margin-right: 0px;
-						
-						padding-bottom: 0px;
-						
-						text-align: left;
-						
-						max-width: 400px;
-						
-						padding-right: 0px;
-						
-						margin-top: 30px;
-						
-						margin-left: 0px;
-						
-						padding-top: 0px;
-						
-						margin-bottom: 30px;
-						
-						background-color: rgba(0, 0, 0, 0);
-						
-						border-color: rgb(197, 197, 197);
-						
-						padding-left: 0px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .item-content:not(.blocks_layout)  {
-		
-						background-color: rgba(0, 0, 0, 0);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-divider  {
-		
-						margin-bottom: 10px;
-						
-						border-color: rgb(255, 255, 255);
-						
-						margin-top: 5px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .inner-pic  {
-		
-						opacity: 0.89;
-						
-						color: rgb(0, 0, 0);
-						
-		    			-webkit-filter: grayscale(100%);	
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center .pic-side  {
-		
-						margin-left: -6%;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center  {
-		
-						padding-left: 6%;
-						
-						width: 88%;
-						
-						padding-right: 6%;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy.master.item-box   {
-		
-						background-color: rgb(255, 255, 255);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-title  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body h1  { 
-						font-family: Montserrat;
-						font-size:calc( 10px + ( 18rem - 10rem ) );
-						color: rgb(255, 255, 255);
-						
-						letter-spacing: 0.0em;
-						
-						margin-top: 5px;
-						
-						margin-bottom: 5px;
-						
-						line-height: 1.2em;
-						
-						background-color: rgba(255, 255, 255, 0);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy #sr-basket-widget *  { 
-						border-width: 0px;
-						font-size:calc( 10px + ( 9rem - 10rem ) );
-						color: rgb(0, 0, 0);
-						
-						padding-bottom: 15px;
-						
-						border-color: rgba(0, 0, 0, 0);
-						
-						letter-spacing: 0.1em;
-						
-						text-decoration: underline;
-						
-						padding-right: 20px;
-						
-						margin-top: 10px;
-						
-						padding-left: 20px;
-						
-						padding-top: 15px;
-						
-						font-family: Arial;
-						
-						background-color: rgba(0, 0, 0, 0);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-element.icon-source  {
-		
-						color: rgb(255, 255, 255);
-						
-						margin-top: 0px;
-						
-						margin-bottom: 10px;
-						
-						width: 70px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .background-image-div  {
-		
-						color: rgb(0, 0, 0);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-link-img  {
-		
-						width: 24px;
-						
-						margin: 12px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-icon-holder  {
-		
-						margin-bottom: 40px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body-holder  {
-		
-						max-width: 500px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy  .preview-content-wrapper  {
-		
-						text-align: left;
-						
-						vertical-align: middle;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span:hover  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-element.Link.hover-tester  { 
-						color: rgb(255, 82, 82);
-						
-						background-color: rgba(0, 0, 0, 0);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .inner-pic-holder  {
-		
-						background-color: rgb(255, 255, 255);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span:before  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .effect-tester  { 
-						background-color: rgb(255, 255, 255);
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body  {
-		
-						font-family: Arial;
-						font-size:calc( 10px + ( 14rem - 10rem ) );
-						color: rgb(89, 89, 89);
-						
-						letter-spacing: 0.2em;
-						
-						max-width: 600px;
-						
-						margin-top: 5px;
-						
-						margin-bottom: 10px;
-						
-						line-height: 1.6em;
-							
-		}
-	
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-social-holder  {
-		
-						margin-bottom: 10px;
-						
-						margin-top: 10px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .middle_layout .helper-div  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center .text-side  { 
-						max-width: 1000px;
-							
-		}
-	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-subtitle  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body h2  { 
-						line-height: 1.5em;
-						font-size:calc( 10px + ( 14rem - 10rem ) );
-						color: rgb(0, 0, 0);
-						
-						letter-spacing: 0.05em;
-						
-						margin-right: 0px;
-						
-						margin-top: 15px;
-						
-						margin-left: 0px;
-						
-						margin-bottom: 0px;
-						
-						font-family: Montserrat;
-							
-		}
-
-/******************************************************************************************************
- *            UNIQUE STYLE
- *                                 	 
- ******************************************************************************************************/
- .style-00819f22-469z2azy #vbid-00819f22-wcvlodqg .preview-content-holder{
-				
-							text-align : center;
-					
-				}
-
-
- .style-00819f22-469z2azy #vbid-00819f22-hedahnxi.inner-pic{
-				
-							background-position : 44.6708% 48.2667%;
-					
-				}
-
-
-
-
-
-
-
-
-
-
- .style-00819f22-469z2azy #vbid-00819f22-wcvlodqg .preview-content-wrapper{
-				
-							text-align : center;
-					
-				}
-
-
-
-
-
-
-
-
-
-
-
-/******************************************************************************************************
- *            WEBSITE STYLE
- *                                 	 
- ******************************************************************************************************/
-/******************************************************************************************************
  *            DYNAMIC STYLE FOR style-56f4bffd-hb3wrlxk version 1.0
  *                                 	 
  ******************************************************************************************************/
@@ -752,6 +489,383 @@
  *                                 	 
  ******************************************************************************************************/
 /******************************************************************************************************
+ *            DYNAMIC STYLE FOR style-00819f22-469z2azy version 1.0
+ *                                 	 
+ ******************************************************************************************************/
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy  .preview-content-holder  {
+		
+						margin-right: 0px;
+						
+						padding-bottom: 0px;
+						
+						text-align: left;
+						
+						max-width: 264px;
+						
+						padding-right: 0px;
+						
+						margin-top: 0px;
+						
+						margin-left: 0px;
+						
+						padding-top: 0px;
+						
+						margin-bottom: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+						
+						border-color: rgb(197, 197, 197);
+						
+						padding-left: 0px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .item-content:not(.blocks_layout)  {
+		
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-divider  {
+		
+						margin-bottom: 10px;
+						
+						border-color: rgb(255, 255, 255);
+						
+						margin-top: 5px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .inner-pic  {
+		
+						opacity: 0.89;
+						
+						color: rgb(0, 0, 0);
+						
+		    			-webkit-filter: grayscale(100%);	
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center .pic-side  {
+		
+						margin-left: -6%;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center  {
+		
+						padding-left: 6%;
+						
+						padding-right: 6%;
+						
+						width: 88%;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy.master.item-box   {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-title  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body h1  { 
+						line-height: 1.2em;
+						font-size:calc( 10px + ( 18rem - 10rem ) );
+						color: rgb(255, 255, 255);
+						
+						letter-spacing: 0.0em;
+						
+						margin-top: 5px;
+						
+						margin-bottom: 5px;
+						
+						font-family: Montserrat;
+						
+						background-color: rgba(255, 255, 255, 0);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .draggable-pic-wrapper  {
+			
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .draggable-pic  {
+			
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy #sr-basket-widget *  { 
+						font-family: Arial;
+						font-size:calc( 10px + ( 9rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						padding-bottom: 15px;
+						
+						border-color: rgba(0, 0, 0, 0);
+						
+						letter-spacing: 0.1em;
+						
+						text-decoration: underline;
+						
+						padding-right: 20px;
+						
+						margin-top: 10px;
+						
+						padding-left: 20px;
+						
+						padding-top: 15px;
+						
+						border-width: 0px;
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-element.icon-source  {
+		
+						color: rgb(255, 255, 255);
+						
+						margin-top: 0px;
+						
+						margin-bottom: 10px;
+						
+						width: 70px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .background-image-div  {
+		
+						color: rgb(0, 0, 0);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-link-img  {
+		
+						width: 24px;
+						
+						margin: 12px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-icon-holder  {
+		
+						margin-bottom: 40px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body-holder  {
+		
+						max-width: 500px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy  .preview-content-wrapper  {
+		
+						text-align: left;
+						
+						vertical-align: middle;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span:hover  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-element.Link.hover-tester  { 
+						color: rgb(255, 82, 82);
+						
+						background-color: rgba(0, 0, 0, 0);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .inner-pic-holder  {
+		
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-item-links span:before  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .effect-tester  { 
+						background-color: rgb(255, 255, 255);
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .draggable-pic-wrapper  {
+			
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body  {
+		
+						line-height: 1.6em;
+						font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(89, 89, 89);
+						
+						letter-spacing: 0.2em;
+						
+						max-width: 600px;
+						
+						margin-top: 5px;
+						
+						margin-bottom: 10px;
+						
+						font-family: Arial;
+							
+		}
+	
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-social-holder  {
+		
+						margin-bottom: 10px;
+						
+						margin-top: 10px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .middle_layout .helper-div  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .multi_layout .helper-div.middle-center .text-side  { 
+						max-width: 1000px;
+							
+		}
+	 .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-subtitle  ,  .style-00819f22-yxvcscpa .style-00819f22-469z2azy .preview-body h2  { 
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 14rem - 10rem ) );
+						color: rgb(0, 0, 0);
+						
+						letter-spacing: 0.05em;
+						
+						margin-right: 0px;
+						
+						margin-top: 15px;
+						
+						margin-left: 0px;
+						
+						margin-bottom: 0px;
+						
+						line-height: 1.5em;
+							
+		}
+
+/******************************************************************************************************
+ *            UNIQUE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+ .style-00819f22-469z2azy #vbid-00819f22-wcvlodqg .preview-content-holder{
+				
+							text-align : center;
+					
+				}
+
+
+ .style-00819f22-469z2azy #vbid-00819f22-hedahnxi.inner-pic{
+				
+							background-position : 44.6708% 48.2667%;
+					
+				}
+
+
+
+
+.desktop-mode .style-00819f22-469z2azy #element-f63590261c6fc25-wrapper.draggable-pic-wrapper{
+				
+							top : 279px;
+					
+							left : 650px;
+					
+							height : 57px;
+					
+							width : 175px;
+					
+				}.desktop-mode .style-00819f22-469z2azy #element-1027f4838c1e3ed-wrapper.draggable-pic-wrapper{
+				
+							top : 187px;
+					
+							left : -4px;
+					
+							height : 132px;
+					
+							width : 211px;
+					
+				}.desktop-mode .style-00819f22-469z2azy #element-cd46d42e142cc35-wrapper.draggable-pic-wrapper{
+				
+							top : 155px;
+					
+							left : 236px;
+					
+							height : 81px;
+					
+							width : 130px;
+					
+				}.desktop-mode .style-00819f22-469z2azy #element-adbef4c392b5b1c-wrapper.draggable-pic-wrapper{
+				
+							top : 173px;
+					
+							left : 659px;
+					
+							height : 46px;
+					
+							width : 167px;
+					
+				}.desktop-mode .style-00819f22-469z2azy #element-4434f229cf1d920-wrapper.draggable-pic-wrapper{
+				
+							top : 246px;
+					
+							left : 244px;
+					
+							height : 117px;
+					
+							width : 117px;
+					
+				}
+ .style-00819f22-469z2azy #element-adbef4c392b5b1c.draggable-pic{
+				
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-00819f22-469z2azy #element-4434f229cf1d920.draggable-pic{
+				
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-00819f22-469z2azy #element-1027f4838c1e3ed.draggable-pic{
+				
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-00819f22-469z2azy #element-cd46d42e142cc35.draggable-pic{
+				
+							background-position : top left;
+					
+							background-size : contain;
+					
+				} .style-00819f22-469z2azy #element-f63590261c6fc25.draggable-pic{
+				
+							background-position : top left;
+					
+							background-size : contain;
+					
+				}
+
+
+
+
+
+
+ .style-00819f22-469z2azy #vbid-00819f22-wcvlodqg .preview-content-wrapper{
+				
+							text-align : center;
+					
+				}
+
+
+
+.desktop-mode.tablet-mode .style-00819f22-469z2azy #element-4434f229cf1d920-wrapper.draggable-pic-wrapper{
+				
+							top : 246px;
+					
+							left : 274px;
+					
+				}.desktop-mode.tablet-mode .style-00819f22-469z2azy #element-1027f4838c1e3ed-wrapper.draggable-pic-wrapper{
+				
+							top : 199px;
+					
+							left : 104px;
+					
+							height : 104px;
+					
+							width : 166px;
+					
+				}.desktop-mode.tablet-mode .style-00819f22-469z2azy #element-cd46d42e142cc35-wrapper.draggable-pic-wrapper{
+				
+							top : 159px;
+					
+							left : 264px;
+					
+				}
+
+
+
+
+
+
+
+
+/******************************************************************************************************
+ *            WEBSITE STYLE
+ *                                 	 
+ ******************************************************************************************************/
+/******************************************************************************************************
  *            DYNAMIC STYLE FOR style-fdb04caa-noaiv0bj version 1.0
  *                                 	 
  ******************************************************************************************************/
@@ -763,17 +877,17 @@
 						
 						text-align: center;
 						
-						max-width: 1264px;
+						max-width: 867px;
 						
 						padding-right: 0px;
 						
-						margin-top: 50px;
+						margin-top: 0px;
 						
 						margin-left: 0px;
 						
 						padding-top: 0px;
 						
-						margin-bottom: 50px;
+						margin-bottom: 0px;
 						
 						background-color: rgba(255, 255, 255, 0);
 						
@@ -815,17 +929,17 @@
 		
 						padding-left: 6%;
 						
-						padding-right: 6%;
-						
 						width: 88%;
+						
+						padding-right: 6%;
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .background-div  {
 			
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-title  ,  .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-body h1  { 
-						line-height: 0.9em;
-						font-size:calc( 10px + ( 67rem - 10rem ) );
+						font-family: Montserrat;
+						font-size:calc( 10px + ( 45rem - 10rem ) );
 						color: rgb(255, 255, 255);
 						
 						letter-spacing: 0.0em;
@@ -834,13 +948,13 @@
 						
 						margin-bottom: 15px;
 						
-						font-family: Montserrat;
+						line-height: 0.9em;
 						
 						background-color: rgba(255, 255, 255, 0);
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-item-links span  ,  .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj #sr-basket-widget *  { 
-						border-width: 1px;
+						font-family: Arial;
 						font-size:calc( 10px + ( 12rem - 10rem ) );
 						text-transform: uppercase;
 						
@@ -864,16 +978,16 @@
 						
 						margin-bottom: 15px;
 						
-						font-family: Arial;
+						border-width: 1px;
 						
 						background-color: rgba(0, 0, 0, 0);
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-element.icon-source  {
 		
-						margin-bottom: 10px;
-						
 						width: 90px;
+						
+						margin-bottom: 10px;
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-link-img  {
@@ -883,8 +997,9 @@
 						margin: 5px;
 							
 		}
-	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-item-links span:before  ,  .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .effect-tester  { 
-						background-color: rgb(255, 255, 255);
+	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-icon-holder  {
+		
+						margin-bottom: 40px;
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-body-holder  {
@@ -910,14 +1025,13 @@
 						background-color: rgb(0, 0, 0);
 							
 		}
-	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-icon-holder  {
-		
-						margin-bottom: 40px;
+	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-item-links span:before  ,  .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .effect-tester  { 
+						background-color: rgb(255, 255, 255);
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-body  {
 		
-						line-height: 1.4em;
+						font-family: Arial;
 						font-size:calc( 10px + ( 12rem - 10rem ) );
 						color: rgb(255, 255, 255);
 						
@@ -927,7 +1041,7 @@
 						
 						margin-bottom: 10px;
 						
-						font-family: Arial;
+						line-height: 1.4em;
 							
 		}
 	
@@ -943,8 +1057,8 @@
 							
 		}
 	 .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-subtitle  ,  .style-00819f22-yxvcscpa .style-fdb04caa-noaiv0bj .preview-body h2  { 
-						font-family: Quicksand;
-						font-size:calc( 10px + ( 13rem - 10rem ) );
+						line-height: 1.2em;
+						font-size:calc( 10px + ( 14rem - 10rem ) );
 						color: rgba(237, 237, 237, 0.63);
 						
 						letter-spacing: 0.15em;
@@ -957,7 +1071,7 @@
 						
 						margin-bottom: 10px;
 						
-						line-height: 1.2em;
+						font-family: Quicksand;
 							
 		}
 
