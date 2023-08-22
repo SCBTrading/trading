@@ -55,7 +55,7 @@ scbtradinginternational.com</title>
 <div class="popup-container" id="cookiePopup">
   <div class="popup-title">Cookie Preferences</div>
   <div class="popup-text">
-    At [Your Website Name], we respect your privacy and value your control over your personal data. Please review the cookie categories and select your preferences. For more information about how we handle your data, please refer to our <a href="privacy.html">GDPR Policy</a>.
+    At SCB Trading International Ltd, we respect your privacy and value your control over your personal data. Please review the cookie categories and select your preferences. For more information about how we handle your data, please refer to our <a href="javascript:void(0);" onclick="openPrivacyWindow()">Privacy Policy</a>.
   </div>
   <form id="cookiePreferences">
     <input type="checkbox" id="necessaryCookies" checked disabled>
@@ -74,6 +74,11 @@ scbtradinginternational.com</title>
 </div>
 
 <script>
+  function openPrivacyWindow() {
+    var windowFeatures = 'width=800,height=600,resizable=yes,scrollbars=yes';
+    window.open('privacy.html', '_blank', windowFeatures);
+  }
+
   document.addEventListener("DOMContentLoaded", function() {
     const popup = document.getElementById("cookiePopup");
     const saveButton = document.getElementById("savePreferences");
@@ -96,7 +101,7 @@ scbtradinginternational.com</title>
 </script>
 </body>
 </html>
-		<!-- META -->
+	<!-- META -->
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, maximum-scale=1"/> 
 	
