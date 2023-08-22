@@ -3,6 +3,99 @@
 	<head>
 		<title>
 scbtradinginternational.com</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cookie Preferences</title>
+<style>
+  /* Styles for the popup */
+  .popup-container {
+    display: none;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    z-index: 9999;
+    max-width: 80%;
+  }
+  .popup-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  .popup-text {
+    margin-bottom: 20px;
+  }
+  .popup-buttons {
+    text-align: center;
+  }
+  .popup-button {
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  .popup-button.save {
+    background-color: #4caf50;
+    color: #ffffff;
+  }
+  .popup-button.close {
+    background-color: #f44336;
+    color: #ffffff;
+    margin-left: 10px;
+  }
+</style>
+</head>
+<body>
+<div class="popup-container" id="cookiePopup">
+  <div class="popup-title">Cookie Preferences</div>
+  <div class="popup-text">
+    At [Your Website Name], we respect your privacy and value your control over your personal data. Please review the cookie categories and select your preferences. For more information about how we handle your data, please refer to our <a href="privacy.html">GDPR Policy</a>.
+  </div>
+  <form id="cookiePreferences">
+    <input type="checkbox" id="necessaryCookies" checked disabled>
+    <label for="necessaryCookies">Allow Necessary Cookies</label><br>
+    <input type="checkbox" id="functionalCookies" checked>
+    <label for="functionalCookies">Allow Functional Cookies</label><br>
+    <input type="checkbox" id="analyticalCookies" checked>
+    <label for="analyticalCookies">Allow Analytical Cookies</label><br>
+    <input type="checkbox" id="marketingCookies" checked>
+    <label for="marketingCookies">Allow Marketing Cookies</label><br><br>
+    <div class="popup-buttons">
+      <button class="popup-button save" id="savePreferences">Save Preferences</button>
+      <button class="popup-button close" id="closePopup">Close</button>
+    </div>
+  </form>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const popup = document.getElementById("cookiePopup");
+    const saveButton = document.getElementById("savePreferences");
+    const closeButton = document.getElementById("closePopup");
+
+    // Show the popup
+    popup.style.display = "block";
+
+    saveButton.addEventListener("click", function(event) {
+      event.preventDefault();
+      // Process user preferences here
+      popup.style.display = "none";
+    });
+
+    closeButton.addEventListener("click", function(event) {
+      event.preventDefault();
+      popup.style.display = "none";
+    });
+  });
+</script>
+</body>
+</html>
 		<!-- META -->
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, maximum-scale=1"/> 
@@ -5384,15 +5477,7 @@ SCB Trading International Ltd invites you to immerse yourself in a realm where d
 <div class="preview-body-holder removable-parent order-handle">
 	
 	<div id="element-066ad9b346bc50b" class="preview-element preview-body magic-circle-holder text-element quick-text-style-menu   allow-mobile-hide" data-menu-name="PREVIEW_BODY">
-		<p>SCB Trading International Ltd stands as the embodiment of tailored retail and e-commerce experiences, meticulously crafting exceptional private label products that resonate across diverse markets. Our headquarters are nestled in the vibrant heart of Manchester, UK, where we specialize in curating an eclectic array of offerings, ranging from kitchenware and toys to home goods and textiles.<br></p><p><br></p><p>
 
-Our pioneering visionary, Steven Brown, embarked on a transformative journey from the bustling tapestry of New York to the tranquil charm of Boca Raton, Florida, before ultimately finding his permanent residence in the captivating embrace of Manchester. While he now anchors himself within the cultural mosaic of Manchester, he occasionally drifts back to the sunlit shores of Boca Raton, drawing inspiration from both worlds. This bicoastal odyssey empowers him with a nuanced understanding of the American market's dynamics and the refined sensibilities of the British audience.
-<br></p><p><br></p><p>
-Fuelled by an unwavering commitment to innovation, SCB Trading International Ltd serves as an incubator of creativity. Our adept artisans and designers harmonize their talents to conceptualize and curate private label products that epitomize exclusivity and refinement. From captivating playthings that ignite youthful imagination to avant-garde kitchen essentials that redefine culinary craftsmanship, each item in our portfolio is a testament to our dedication to excellence.
-<br></p><p><br></p><p>
-In the spirit of collaboration, we cultivate partnerships with retailers, e-commerce platforms, and stakeholders who share our zeal for transforming the ordinary into the extraordinary. Our journey spans uncharted territories, leading us to unexplored concepts and novel avenues that shape the vanguard of consumer engagement.
-<br></p><p><br></p><p>
-SCB Trading International Ltd invites you to immerse yourself in a realm where design, elegance, and functionality converge seamlessly. Join us in this dynamic expedition where our private label products not only enrich lives but also carve indelible narratives.  <br></p>
 	</div>
 	
 </div>
@@ -5530,16 +5615,7 @@ SCB Trading International Ltd invites you to immerse yourself in a realm where d
 								
 									<!--  BY SPECIFIC ORDER -->
 									
-										
-											
-												
-<br class="upper-line-break" />
-<div class="preview-title-holder removable-parent order-handle">
-	
-	<h2 id="element-7e580f2dc36679c" class="preview-element preview-title magic-circle-holder inner-page text-element quick-text-style-menu   allow-mobile-hide" data-menu-name="PREVIEW_TITLE" >Your Title Here</h2>
-	
-</div>
-<br class="lower-line-break" />
+		
 
 											
 										
@@ -5563,20 +5639,7 @@ SCB Trading International Ltd invites you to immerse yourself in a realm where d
 										
 											
 												
-<br class="upper-line-break" />
-	<div class="preview-social-wrapper removable-parent order-handle"  >
-		<div id="vbid-00819f22-qfkqmlyt" class="preview-element preview-social-holder magic-circle-holder" data-menu-name="PREVIEW_SOCIAL" data-theme="6" >
-			
-			<div id="FACEBOOK" class='link-entry ' data-menu-name="PREVIEW_SOCIAL" style='display:inline-block;' data-title="FACEBOOK" data-img-url="images/socialmedia/6facebook.png">
-				<a class='social-link-url' href="http://www.facebook.com/" target='_blank'><img class='preview-link-img nopin load-high-res' data-pin-nopin="true" src="https://lh3.googleusercontent.com/jAThWmiScxB5lJEI2iet2f3Ri1GEl8FieiKKXV3KemGrX2k3AMz5_jYloQXZnxURsn6l8pRgns-sFMwuYw=s100" ></a>
-			</div>
-			
-			<div id="TWITTER" class='link-entry ' data-menu-name="PREVIEW_SOCIAL" style='display:inline-block;' data-title="TWITTER" data-img-url="images/socialmedia/6twitter.png">
-				<a class='social-link-url' href="http://www.twitter.com/" target='_blank'><img class='preview-link-img nopin load-high-res' data-pin-nopin="true" src="https://lh3.googleusercontent.com/Lxbe4vo7dgQiyqu3daB3RFp4gU6dLSG2heGqUHk1KivfubRlHkTEUPwrFYDvHPIWR_AHz5V70ApTEAxPOq8=s100" ></a>
-			</div>
-			
-			<div id="INSTAGRAM" class='link-entry ' data-menu-name="PREVIEW_SOCIAL" style='display:inline-block;' data-title="INSTAGRAM" data-img-url="images/socialmedia/6instagram.png">
-				<a class='social-link-url' href="http://www.instagram.com" target='_blank'><img class='preview-link-img nopin load-high-res' data-pin-nopin="true" src="https://lh3.googleusercontent.com/6f8-V4mWAz0LpB0FPrVajtq92ft8AqfbBJpklWGhLJKOb-7UaojWEJROCRpbo0SdUKaj20l_7FwRmMO3=s100" ></a>
+
 			</div>
 			
 		</div> 
